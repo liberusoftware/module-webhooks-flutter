@@ -1,0 +1,25 @@
+{
+  "repository": "module-webhooks-flutter",
+  "capabilityKey": "liberusoftware/webhooks",
+  "presentation": "mobile-flutter",
+  "package": "module_webhooks_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/boilerplate/nextjs/webhooks.md",
+  "presentationPlan": "projects/boilerplate/flutter/webhooks.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
